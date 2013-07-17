@@ -11,6 +11,7 @@ a simple thin js framework
 
 为了达到这些目标，可能牺牲一些灵活性和性能。
 
-docs:
-http://www.ituring.com.cn/article/48461
-http://www.ituring.com.cn/article/48463
+文档:
+[1 模块的定义和加载](http://www.ituring.com.cn/article/48461 "模块的定义和加载")
+[2 数据绑定](http://www.ituring.com.cn/article/48463 "数据绑定")
+
