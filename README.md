@@ -10,3 +10,7 @@ a simple thin js framework
 容易理解
 
 为了达到这些目标，可能牺牲一些灵活性和性能。
+
+docs:
+http://www.ituring.com.cn/article/48461
+http://www.ituring.com.cn/article/48463
